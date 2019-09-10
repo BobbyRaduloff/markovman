@@ -2,7 +2,7 @@
 
 Markovman is an application that generates [florida man](https://www.esquire.com/news-politics/a26899191/florida-man-headlines-2019/) headlines through Markov chains.
 
-## Requierments
+## Requirements
 * `python3`
 
 ## Usage
